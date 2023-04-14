@@ -1,4 +1,4 @@
-# Djinni_technologies_statistics
+# Djinni technologies statistics
 
 * You can scrap Python Developer vacancies from Djinni website.
 * And analyze scraped data to define most popular technologies.
